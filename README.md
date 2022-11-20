@@ -4,8 +4,10 @@ Programlama dillerini(C#,Java,Python) ekleyebilecek, silebilecek, güncelleyebil
 İsimler tekrar edemez.
 Programlama dili boş geçilemez. (Validation kullanmadan, kod yazarak algoritmik çözünüz)<h6>
 
+
+<!--
 <h1>Add<h1>
 
-<img src="C:\Users\hatic\OneDrive\Masaüstü\Add.jpg" alt="">
+<img src="C:\Users\hatic\OneDrive\Masaüstü\Add.jpg" alt="">-->
 
 
